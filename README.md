@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);println!(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=27&width=550">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22Hello%20World!%22;%22My%20name%20is%20Swati%20Gupta%22;%22Welcome%20to%20my%20Github%20profile!!:>%22&center=true&size=27&width=550">
   </a>
 </h1>
 
@@ -77,7 +77,7 @@
 </p>
 </p>
 
-<h1 align="center"> 🤝 Socials: </h1>
+<h1 align="center">🎭 Socials: </h1>
   <p align="center">
     <a href="https://twitter.com/Swatigupta0846">
       <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
