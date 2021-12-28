@@ -29,7 +29,7 @@
 <h1 align="center"> ✨ PINNED: </h1>
 <p align="center">
   <a href="https://github.com/Swatigupta-droid/GEMLEADS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swatigupta-droid&repo=GEMLEADSt&bg_color=0d1117&text_color=FFF&border_color=444">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swatigupta-droid&repo=GEMLEADS&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
   <a href="https://github.com/Swatigupta-droid/Mindy.">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swatigupta-droid&repo=Mindy.&bg_color=0d1117&text_color=FFF&border_color=444">
@@ -37,7 +37,9 @@
   <a href="https://github.com/Swatigupta-droid/Donatly.">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swatigupta-droid&repo=Donatly.&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
- 
+ <a href="https://github.com/Swatigupta-droid/iosd-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swatigupta-droid&repo=iosd-project&bg_color=0d1117&text_color=FFF&border_color=444">
+  </a>
     
 </p>    
 
