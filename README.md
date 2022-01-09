@@ -32,7 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swatigupta-droid&repo=GEMLEADS&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
   <a href="https://github.com/Swatigupta-droid/Mindy.">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swatigupta-droid&repo=Mindy.&bg_color=0d1117&text_color=FFF&border_color=444">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swatigupta-droid&repo=mindy2&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
   <a href="https://github.com/Swatigupta-droid/Donatly.">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swatigupta-droid&repo=Donatly.&bg_color=0d1117&text_color=FFF&border_color=444">
