@@ -21,11 +21,9 @@
 <p align="center">
   
   <br>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swatigupta-droid)](https://git.io/streak-stats)
-
-
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/adithyapaib/adithyapaib/master/download.svg)
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Swatigupta-droid&theme=react-dark&hide_border=true">
+  </a>
 </p>
 
 <h1 align="center"> ✨ PINNED: </h1>
