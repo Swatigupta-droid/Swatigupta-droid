@@ -1,95 +1,120 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22Hello%20World!%22;%22My%20name%20is%20Swati%20Gupta%22;%22Welcome%20to%20my%20Github%20profile!!:>%22&center=true&size=27&width=550">
-  </a>
-</h1>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=230&section=header&text=Hey,%20I'm%20Swati%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MSc%20Computer%20Science%20%40%20RPTU%20Kaiserslautern&descAlignY=55&descSize=20&descColor=f5f5f5" width="100%"/>
 
-<h1 align="center"> 📊 Statistics: </h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF6AC1,58A6FF,3FE0C5&background=00000000&center=true&vCenter=true&width=700&lines=cd+swati-gupta;whoami+%3E+MSc+CS+%40+RPTU+Kaiserslautern;werkstudent+%40+IONOS+%E2%80%94+Personalization+Engine;git+commit+-m+%22always+learning%22" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Swatigupta-droid&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swatigupta-droid&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444" >
-  </a>
-  <br>
- 
-</p>
-<h1 align="center"> 🔥 Contributions: </h1>
-<p align="center">
-  
-  <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Swatigupta-droid&theme=react-dark&hide_border=true">
-  </a>
-</p>
+<br/>
 
-<h1 align="center"> ✨ PINNED: </h1>
-<p align="center">
-  <a href="https://github.com/Swatigupta-droid/GEMLEADS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swatigupta-droid&repo=GEMLEADS&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-  <a href="https://github.com/Swatigupta-droid/Mindy.">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swatigupta-droid&repo=mindy2&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-  <a href="https://github.com/Swatigupta-droid/Donatly.">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swatigupta-droid&repo=Donatly.&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
- <a href="https://github.com/Swatigupta-droid/iosd-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swatigupta-droid&repo=iosd-project&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-    
-</p>    
+<img src="https://img.shields.io/badge/📍_Kaiserslautern,_Germany-FF6AC1?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🎓_RPTU_Kaiserslautern-58A6FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/💼_IONOS_Werkstudent-3FE0C5?style=for-the-badge&labelColor=0d1117" />
 
-<h1 align="center"> 🔧 Skills & Tools: </h1>
+</div>
 
-<p align="center">
-  <a href="https://www.cplusplus.com/doc/tutorial/">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  </a>
-  <a href="https://html.com/">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  </a>
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  </a>
-  <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </a>
-  <br>
-  <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
-  </a>
-  <br>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
-  </a>
+<br/>
 
-<a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-ffffff?&style=for-the-badge&logo=python&logoColor=black">
-  </a>
-</p>
-</p>
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-<h1 align="center">🎭 Socials: </h1>
-  <p align="center">
-    <a href="https://twitter.com/Swatigupta0846">
-      <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/swati-gupta-816b26204/">
-      <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  </p>
-</h1>
+```yaml
+swati.profile:
+  role: "MSc Computer Science Student"
+  university: "RPTU Kaiserslautern, Germany"
+  job: "Werkstudent @ IONOS"
+  team: "Personalization Engine Development"
+  based_in: "Kaiserslautern, Germany"
+  background: "B.Sc. CS, Delhi University 🇮🇳"
+  currently:
+    - building recommendation/personalization systems
+    - leveling up full-stack + ML skills
+    - exploring how data shapes user experience
+  fun_fact: "started with C++, now living in Python & JS"
+```
 
-<hr>
+</td>
+<td valign="top" width="50%">
 
+| | |
+|---|---|
+| ⚡ **Status** | Online & shipping |
+| 🛠 **Mode** | Building features |
+| 🧠 **Focus** | Personalization @ scale |
+| ☕ **Coffee** | Always topped up |
+| 🌍 **Roots** | 🇮🇳 → 🇩🇪 |
 
+<br/>
+
+**📡 Connect with me**
+
+<a href="https://www.linkedin.com/in/swati-gupta-816b26204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://swatigupta-droid.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF6AC1?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🧰 `~/tech-stack`
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,html,css,git,github,vscode,docker,linux&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📊 `~/github-stats`
+
+<img src="https://github-readme-stats.vercel.app/api?username=Swatigupta-droid&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6AC1&icon_color=3FE0C5&text_color=c9d1d9&ring_color=58a6ff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swatigupta-droid&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6AC1&text_color=c9d1d9" width="38%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Swatigupta-droid&theme=radical&hide_border=true&background=0d1117&ring=FF6AC1&fire=3FE0C5&currStreakLabel=58A6FF" width="60%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 `~/contribution-graph`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swatigupta-droid&theme=react-dark&hide_border=true&bg_color=0d1117&color=3FE0C5&line=FF6AC1&point=ffffff" width="90%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 `~/contribution-snake`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swatigupta-droid/Swatigupta-droid/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Swatigupta-droid/Swatigupta-droid/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</picture>
+
+<sub>⚠️ animates once the snake-game GitHub Action is set up on this repo — ask me to add the workflow file</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```bash
+$ echo "thanks for stopping by — feel free to explore, star, or fork something ⭐"
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,12&height=120&section=footer" width="100%"/>
+
+</div>
