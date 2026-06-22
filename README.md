@@ -98,10 +98,9 @@ swati.profile:
 
 ### 🐍 `~/contribution-snake`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swatigupta-droid/Swatigupta-droid/output/dist/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Swatigupta-droid/Swatigupta-droid/output/dist/github-contribution-grid-snake-dark.svg" width="90%" />
-</picture>
+<img alt="snake animation" src="https://github.com/Swatigupta-droid/Swatigupta-droid/blob/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+<sub>⚠️ animates once the snake-game GitHub Action is set up on this repo — ask me to add the workflow file</sub>
 
 </div>
 
