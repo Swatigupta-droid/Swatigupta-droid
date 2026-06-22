@@ -103,8 +103,6 @@ swati.profile:
   <img alt="snake animation" src="https://raw.githubusercontent.com/Swatigupta-droid/Swatigupta-droid/output/dist/github-contribution-grid-snake-dark.svg" width="90%" />
 </picture>
 
-
-
 </div>
 
 <br/>
