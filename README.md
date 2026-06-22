@@ -100,7 +100,7 @@ swati.profile:
 
 <img alt="snake animation" src="https://github.com/Swatigupta-droid/Swatigupta-droid/blob/output/github-contribution-grid-snake-dark.svg" width="90%" />
 
-<sub>⚠️ animates once the snake-game GitHub Action is set up on this repo — ask me to add the workflow file</sub>
+<sub></sub>
 
 </div>
 
